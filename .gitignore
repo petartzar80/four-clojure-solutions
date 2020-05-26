@@ -12,5 +12,3 @@ pom.xml.asc
 .hg/
 
 /src/four_clojure_solutions/easy/28.clj
-/src/four_clojure_solutions/easy/20.clj
-/test/four_clojure_solutions/easy/20_test.clj
