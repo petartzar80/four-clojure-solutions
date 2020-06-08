@@ -7,5 +7,5 @@
     (is (= (max-val 1 8 3 4) 8)))
   (testing "Test #2"
     (is (= (max-val 30 20) 30)))
-  (testing "Test #4"
+  (testing "Test #3"
     (is (= (max-val 45 67 11) 67))))
