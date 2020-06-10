@@ -1,4 +1,4 @@
-(ns four-clojure-solutions.easy.39-test
+(ns four-clojure-solutions.easy.32-test
   (:require [clojure.test :refer :all]
             [four-clojure-solutions.easy.39 :refer [interlv]]))
 
